@@ -1,6 +1,5 @@
 # OCDM
 Orthogonal Chirp Division Multiplexing
-# Fresnel Transform and Inverse Fresnel Transform
 # Fresnel and Inverse Fresnel Transforms in Wireless Communication
 
 This repository contains explanations and equations related to Fresnel and Inverse Fresnel Transforms and their application in wireless communication.
