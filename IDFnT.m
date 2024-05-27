@@ -7,10 +7,7 @@ function idFnT_output = IDFnT(input_signal)
 % vol. 64, no. 9, pp. 3946-3957, Sept. 2016, 
 % doi: 10.1109/TCOMM.2016.2594792.
 %
-%	Acknowledgments:
-%	If you publish results that are  based on  the  present
-%	fresnelet_transform function,  I  expect  you to  acknowledge me 
-%	and/or put me second author :):
+%
 %
 %Muneeb Ahmad
 %muneeb.ahmad@kumoh.ac.kr
