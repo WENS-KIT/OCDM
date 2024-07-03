@@ -64,3 +64,17 @@ These mathematical tools are essential in various wireless communication applica
 ### Citation
 
 "Ahmad M, Shin SY. A Comparative Performance Analysis of OCDM and OFDM for Wireless Communications. 한국통신학회 학술대회논문집. 2023 Jun:1380-1."
+
+### References
+
+[1] X. Ouyang and J. Zhao, "Orthogonal Chirp Division Multiplexing," in IEEE Transactions on Communications, vol. 64, no. 9, pp. 3946-3957, Sept. 2016.
+
+[2] Zhang R, Wang Y, Ma X. Channel estimation for OCDM transmissions with carrier frequency offset. IEEE Wireless Communications Letters. 2021 Dec 7;11(3):483-7.
+
+[3] Haif H, Zegrar SE, Arslan H. Novel OCDM Transceiver Design for Doubly-dispersive Channels. IEEE Transactions on Vehicular Technology. 2024 Feb 29.
+
+[4] Solyman AA, Attar H, Khosravi MR, Koyuncu B. MIMO-OFDM/OCDM low-complexity equalization under a doubly dispersive channel in wireless sensor networks. International Journal of Distributed Sensor Networks. 2020 Jun;16(6):1550147720912950.
+
+[5] Y. Wan et al., "Performance-Enhanced Optical Non-Orthogonal Multiple Access Enabled by Orthogonal Chirp Division Multiplexing," in Journal of Lightwave Technology, vol. 40, no. 16, pp. 5440-5449, 15 Aug.15, 2022.
+
+[6] Ouyang X, Dobre O, Guan YL, Townsend P. Channel estimation for MIMO-OCDM systems as an emerging 6G radio access technology. In2022 IEEE Globecom Workshops (GC Wkshps) 2022 Dec 4 (pp. 1573-1578). IEEE.
