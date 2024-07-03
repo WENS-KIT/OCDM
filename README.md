@@ -61,6 +61,8 @@ e^{j\pi/N (m + \frac{1}{2} - n)^2} & \text{if } N \equiv 1 \ (\text{mod} \ 2)
 
 These mathematical tools are essential in various wireless communication applications, from antenna design to signal processing and diffraction analysis.
 
+### Please do not forget to cite the artilce as:
+
 ### Citation
 
 "Ahmad M, Shin SY. A Comparative Performance Analysis of OCDM and OFDM for Wireless Communications. 한국통신학회 학술대회논문집. 2023 Jun:1380-1."
